@@ -1,4 +1,4 @@
-name: hexlet-ci-app jobs
+name: hexlet-ci-app
 
 on:
   - push
