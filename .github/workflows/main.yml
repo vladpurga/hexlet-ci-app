@@ -1,8 +1,11 @@
 name: hexlet-ci-app jobs
 
+on:
+  - push
+
 jobs:
   build:
-    
+
     runs-on: ubuntu-latest
 
     steps:
